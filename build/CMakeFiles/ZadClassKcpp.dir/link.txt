@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/ZadClassKcpp.dir/main.cc.o CMakeFiles/ZadClassKcpp.dir/src/ZadKcpp.cc.o CMakeFiles/ZadClassKcpp.dir/src/ZadPrzykladKlasy.cc.o CMakeFiles/ZadClassKcpp.dir/src/ZadZwracanie.cc.o CMakeFiles/ZadClassKcpp.dir/src/ZadOperatoryPrzypisania.cc.o CMakeFiles/ZadClassKcpp.dir/src/ZadParzysta.cc.o CMakeFiles/ZadClassKcpp.dir/src/ZadStruktura.cc.o -o ZadClassKcpp

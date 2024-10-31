@@ -1,0 +1,3 @@
+/home/kali/c++/ZadClassKcpp/build/CMakeFiles/ZadClassKcpp.dir
+/home/kali/c++/ZadClassKcpp/build/CMakeFiles/edit_cache.dir
+/home/kali/c++/ZadClassKcpp/build/CMakeFiles/rebuild_cache.dir
